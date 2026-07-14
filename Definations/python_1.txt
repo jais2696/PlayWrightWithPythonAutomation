@@ -1,0 +1,6 @@
+what is python?
+- python is a simple and easy language
+- it's and free and open source language
+- it's and high level language
+- it's and portable we can use it in nay machine 
+- translates interpreter
