@@ -1,0 +1,10 @@
+Data types:
+
+1- Intergers
+2- Strings
+3- Float
+4- Boolean
+5- None
+
+
+

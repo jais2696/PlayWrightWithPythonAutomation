@@ -1,0 +1,14 @@
+Accessing parts of a Strings
+
+str[starting_idx : ending_idx]  #ending idx is not included
+
+str = "JyotiSharma"
+str[1:4] is "yot"
+str[ :4] is same str[0:4]
+str[1 : ] is same as str[1: len(str)]
+
+Negative indexing:------
+Apple
+-5-4-3-2-1
+str = "Apple"
+str[-3:-1] is "pl"

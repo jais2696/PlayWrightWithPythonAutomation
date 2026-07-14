@@ -1,0 +1,9 @@
+for test case file name and method name should alwayes need to start with  
+test_name.py
+test_methodName
+
+python -m pytest file name -v   for test execution data
+python -m pytest file name -v -s for in order to see printed data
+
+if we want to execute test case from 2 diff file then we have to use mark   to differential the test case as smoke sanity etc
+fixture is use to call the preconditon and post condition because of fixture we dont need to pass it as method
