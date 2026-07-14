@@ -1,9 +1,0 @@
-Strings is sata type that stores sequence of charecters
-
-concatenation
-"hello"+"world = "helloworld"
-
-length of Strings
-
-len(str)
-

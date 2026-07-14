@@ -1,5 +1,0 @@
-Jyoti_sharma
-01234567891011
-
-str = ""Jyoti_sharma"
-str[0] is 'J', str[1] is'y'......

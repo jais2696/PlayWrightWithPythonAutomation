@@ -1,7 +1,0 @@
-str = "I am a coder." 
-
-str.endsWith("er.")   #return true is d=string end with substr
-str.capitalize()      #capitalize 1st char 
-str.replace(old,new)  #replaces all occurrences of old with new 
-str.find(word)        #return 1st index of 1st
-str.count("am")       #count the occurrnace of substr in string

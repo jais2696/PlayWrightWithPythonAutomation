@@ -1,5 +1,0 @@
-letters - A TO Z, a to Z
-Digits - 0 to 9
-Special symbols - + * / % etc
-whitespaces - blank spaces, tab, carriage return, newline, formfeed
-other characters - python can process all ASCII and Unicodecharaecters as part of data or literals

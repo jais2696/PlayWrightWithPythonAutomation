@@ -1,4 +1,0 @@
-# singlee line comment
-""" multiline comments """
-''' multiline commetns '''
-' .....'
