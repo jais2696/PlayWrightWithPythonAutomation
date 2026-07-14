@@ -4,4 +4,4 @@ import pytest
 
 @pytest.fixture()
 def navigateToAmazon(page: Page):
-    page.goto("https://www.amazon.in/") 
+    page.goto("https://www.amazon.in/") #url for amazon site
